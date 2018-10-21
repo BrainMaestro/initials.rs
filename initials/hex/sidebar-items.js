@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["parse_hex","Parse hex code and generate RGB vector accordingly."]]});
